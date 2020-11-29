@@ -1,1 +1,20 @@
-
+1. B
+2. C
+3. D
+4. A
+5. A
+6. C
+7. B
+8. A
+9. A
+10. B
+11. Deep learning is a subset of machine learning where artificial neural networks, algorithms inspired by the human brain, learn from large amounts of data. Deep learning 
+    allows machines to solve complex problems even when using a data set that is very diverse, unstructured and inter-connected.
+12. Reinforcement learning is an area of machine learning concerned with how software agents ought to take actions in an environment in order to maximize the notion of 
+    cumulative reward.
+13. Machine learning uses algorithms to parse data, learn from that data, and make informed decisions based on what it has learned.
+    Deep learning structures algorithms in layers to create an "artificial neural network” that can learn and make intelligent decisions on its own.
+14. The perceptron is an algorithm for supervised learning of binary classifiers. A binary classifier is a function which can decide whether or not an input, represented by a
+    vector of numbers, belongs to some specific class.
+15. Artificial Intelligence is the broader concept of machines being able to carry out tasks in a way that we would consider “smart”.
+    Machine Learning is a current application of AI based around the idea that we should really just be able to give machines access to data and let them learn for themselves.
